@@ -7,6 +7,6 @@ Simply type the following for use:
 
 `uapfuzz aa:bb:cc`
 
-where aa:bb:cc is the LAP of the piconet. For more verbose output type:
+where `aa:bb:cc` is the LAP of the piconet. For more verbose output type:
 
-`uapfuzz -v aa:bb:cc
+`uapfuzz -v aa:bb:cc`
